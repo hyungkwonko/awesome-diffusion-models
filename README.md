@@ -21,6 +21,7 @@ ICLR 2021 Oral.
 Arxiv 2021.
 [[Paper](https://arxiv.org/abs/2105.05233)]
 [[Code](https://github.com/openai/guided-diffusion)]
+[[Video](https://www.youtube.com/watch?v=W-O7AZNzbzQ)]
 
   
 
