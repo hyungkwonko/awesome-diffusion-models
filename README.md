@@ -9,6 +9,13 @@ This repo contains a curated list of resources on Diffusion Models.
 
 ## Papers
 
+**Image Synthesis and Editing with Stochastic Differential Equations**<br>
+*Chenlin Meng, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon*<br>
+Arxiv 2021.
+[[Paper](https://arxiv.org/abs/2108.01073)]
+[[Code](https://github.com/ermongroup/SDEdit)]
+
+
 **Score-Based Generative Modeling through Stochastic Differential Equations**<br>
 *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole*<br>
 ICLR 2021 Oral.
